@@ -291,11 +291,11 @@ global.imagebot = 'https://telegra.ph/file/7e11da809594b30705ef4.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://telegra.ph/file/7e11da809594b30705ef4.jpg']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/3bd379236dcc367324384.jpg', 'https://telegra.ph/file/3bd379236dcc367324384.jpg',
-  'https://telegra.ph/file/3bd379236dcc367324384.jpg', 'https://telegra.ph/file/3bd379236dcc367324384.jpg',
-  'https://telegra.ph/file/3bd379236dcc367324384.jpg', 'https://telegra.ph/file/3bd379236dcc367324384.jpg',
-  'https://telegra.ph/file/3bd379236dcc367324384.jpg', 'https://telegra.ph/file/3bd379236dcc367324384.jpg',
-  'https://telegra.ph/file/3bd379236dcc367324384.jpg', 'https://telegra.ph/file/3bd379236dcc367324384.jpg'
+  'https://telegra.ph/file/24d2431f14850156aa4a6.jpg', 'https://telegra.ph/file/24d2431f14850156aa4a6.jpg',
+  'https://telegra.ph/file/24d2431f14850156aa4a6.jpg', 'https://telegra.ph/file/24d2431f14850156aa4a6.jpg',
+  'https://telegra.ph/file/24d2431f14850156aa4a6.jpg', 'https://telegra.ph/file/24d2431f14850156aa4a6.jpg',
+  'https://telegra.ph/file/24d2431f14850156aa4a6.jpg', 'https://telegra.ph/file/24d2431f14850156aa4a6.jpg',
+  'https://telegra.ph/file/24d2431f14850156aa4a6.jpg', 'https://telegra.ph/file/24d2431f14850156aa4a6.jpg'
 ]
 global.fotonya1 = 'https://telegra.ph/file/7e11da809594b30705ef4.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/7e11da809594b30705ef4.jpg' //ini juga ganti 
